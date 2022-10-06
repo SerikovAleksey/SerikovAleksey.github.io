@@ -1,0 +1,54 @@
+main {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    font-size: large;
+}
+body {
+    background: white;
+}
+
+
+main.image {
+    max-width: 100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
+}
+#social {
+    font-size: small;
+	float: right;
+}
+footer {
+	background: #7e7e7e;
+	color: #dbdbdb;
+	font-size: 11px;
+}
+
+#footer {
+	max-width: 960px;
+	margin: auto;
+	padding: 10px 0;
+	height: 90px;
+}
+#footer-logo {
+	float: left;
+	margin-top: 10px;
+	font-size: 20px;
+	text-align: right;
+}
+
+.image{
+	position: absolute;
+	right: 0;
+	top: 10px;
+}
+.image2{
+	position: absolute;
+	left: 0;
+	top: 10px;
+}
